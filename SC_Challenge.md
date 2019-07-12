@@ -264,9 +264,21 @@ career here, you'll have to answer the following:
 - What, in your opinion, is an important part of code reviews? That is, what is
   something you pay attention to when you review code, and that you appreciate
   when others do the same for your code?
+  
+  The code review gives guidance on proper coding syntax, style, efficiency and readability.
+  When I review code, I am looking at the 4 factors mentioned above. The ability to understand
+  the above shows that the code is valid, applicable in the real world and usable.
+  I expect the same when other review my code as that aligns my coding to accepted standards used
+  by the community.
+  
 - We have an awful lot of computers here, and it gets pretty confusing with
   slightly different things running on all of them. How could containers help us
   improve this situation?
+  
+  Containers (such as Docker) allow projects to be packaged and shared through  a virtual environment. 
+  This helps with the issue mentioned above in that containers via virtual environment normalize the
+  requirements for the project to run in the expected way. This makes sure that all required packages
+  loaded and available. In addition, no other outside factors can cause issues with the project.
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
